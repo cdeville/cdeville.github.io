@@ -1,0 +1,33 @@
+---
+layout: default
+title: "It's alive"
+date: 2026-04-10 16:45:00 -0500
+categories: nothing
+---
+
+# Hi there  
+### Okay, my initial commit needed SOMETHING 
+
+This is just an initial post to get Jekyll running on GitHub Pages so I have a place to start posting my notes as I start a new project with my son.  Hopefully some of this is useful to folks out there.  
+
+
+## Who am I?  
+### Imposter syndrome is real, I have qualifications...I think
+
+I'm an oldish unix/linux grey beard that's been running large distributed systems in data centers since the mid-90's.  In the first decade of my career, I supported the servers and storage that ran large enterprise applications.  I specialized in building high availability clusters for Oracle and DB2 databases on AIX and Linux, and managing storage.  When I started we were twin-tailing external direct-access SCSI arrays, then we had Serial Storage Architecture (SSA), and eventually moved on to Storage Area Networking (SAN) on Brocade & McData Fibre Channel fabrics.  When I started at IBM in the 90s, we were still on token ring.  All of this is just to give you an idea of where I started.  
+
+I've also done quite a bit of security work over the years including a multi-year stint building linux vulnerability scanning applicances.  We wrote the scanner in house and rolled our own Red Hat 7 based distro (Red Hat...not RHEL, again I'm old).  We would scan customer networks, and try to exploit resources on their network.  This was a kind of small detour in my career but I worked with a bunch of incredibly smart people, learned a ton about security, and I figured it was worth at least a foot note here.
+
+Then I started working with virtualization on both IBM Power and VMware on x86.  I spent the next decade managing large virtualization farms.  This was still all on-prem, and involved racking and stacking servers, managing network equipment, and storage arrays.  It was good work, but honestly after 20ish years of care and feeding of large systems I was bored.  I was a bit of an anomoly on the infrastructure side of the house in the old days because I've always enjoyed coding.  My favorite days were when I had large coding projects to automate boring tasks or learning and rolling out new technologies.  The problem was you get them out...then back to patching, audits, blah, blah, blah.  I wanted more.  
+
+That's when I began using containers and dabling in the cloud almost a decade ago.  This last decade has been spent largely in AWS architecting and delivering solutions on serverless infrastructure, as well as building automation and CI/CD pipelines - I'm having as much fun with technology as I ever have.  Over the years I've used so many different tools, and as much as things have changed many things haven't.  I'm still enjoying the journey and learn something new almost every day.  
+
+## What's coming?
+### Will I follow through on this? God I hope so.
+
+Honestly...I'm not sure.  I have some fun projects planned with my son, who is just at the beginning of his career, and I hope to document some of that here.  Hopefully we find some comrades and make some friends along the way! 
+
+There will definitely be python, linux, container, & AWS stuff - my "bread & butter".  Way more too, APIs, tooling, & new technologies.  We're going to do (and document) some cool stuff in the coming months and years that I hope people besides me find interesting enough to glance at and interact with.  Also check out some of the stuff that I've put up in other projects on my [GitHub](https://github.com/cdeville) page.  I've been using private git for years, but I finally created a personal GitHub page to put myself out there in the community that's given me so much over the years.  Hopefully I can give a little back.
+
+Cheers!  
+DeVille
