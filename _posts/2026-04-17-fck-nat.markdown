@@ -69,9 +69,9 @@ Running the smallest config on t4g.nano ARM instances, you're looking at less th
 
 ## References
 
- - https://fck-nat.dev  
- - https://github.com/AndrewGuenther/fck-nat
- - https://datatracker.ietf.org/doc/rfc1918/
- - https://datatracker.ietf.org/doc/rfc2131/
- - https://datatracker.ietf.org/doc/rfc2663/
+ - [fck-nat](https://fck-nat.dev)  
+ - [fck-nat GitHub](https://github.com/AndrewGuenther/fck-nat)  
+ - [RFC1918](https://datatracker.ietf.org/doc/rfc1918/)  
+ - [RFC2131](https://datatracker.ietf.org/doc/rfc2131/)  
+ - [RFC2663](https://datatracker.ietf.org/doc/rfc2663/)
 
