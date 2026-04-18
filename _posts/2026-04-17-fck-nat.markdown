@@ -20,7 +20,7 @@ $.045 doesn't sound like much until you take into account that if you have a sin
 
 Amazon realized that it's much more profitable to provide a managed solution so they stopped supporting the cheap DIY option.  
 
-![AWS NAT Instance Support](./images/aws-nat-instance-support.png)  
+![AWS NAT Instance Support](/assets/images/aws-nat-instance-support.png)  
 
 ## Okay, wtf is fck-nat?
 
@@ -65,7 +65,7 @@ class NetworkStack(Stack):
 
 Running the smallest config on t4g.nano ARM instances, you're looking at less than $7 per month to run two of these NAT gateways.  For a small environment or non-prod environment, it's definitely worth it.  The biggest downside is that this instance is going to have a bandwidth limit of 32Mbps, but IMO that's fine for any personal projects or even non-production workloads for small & medium sized organizations.  You can always build fck-nat on larger ec2 instances that are significantly more capable too.
 
-![AWS t4g.nano pricing](./images/t4g-pricing.png)  
+![AWS t4g.nano pricing](/assets/images/t4g-pricing.png)  
 
 ## References
 
